@@ -1,5 +1,5 @@
 {
-    "name": "acacha/user",
+    "name": "bcartfall/acacha-user",
     "type": "library",
     "description": "A boosted User for Laravel",
     "keywords": [
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "~5.6|~7.0",
-        "laravel/framework": "^5.3"
+        "laravel/framework": "^6.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "~4.0||~5.0",
